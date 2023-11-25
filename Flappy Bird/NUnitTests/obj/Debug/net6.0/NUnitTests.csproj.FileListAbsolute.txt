@@ -1,0 +1,6 @@
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\NUnitTests\obj\Debug\net6.0\NUnitTests.csproj.AssemblyReference.cache
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\NUnitTests\obj\Debug\net6.0\NUnitTests.GeneratedMSBuildEditorConfig.editorconfig
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\NUnitTests\obj\Debug\net6.0\NUnitTests.AssemblyInfoInputs.cache
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\NUnitTests\obj\Debug\net6.0\NUnitTests.AssemblyInfo.cs
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\NUnitTests\obj\Debug\net6.0\NUnitTests.csproj.CoreCompileInputs.cache
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\NUnitTests\obj\Debug\net6.0\NUnitTests.csproj.ResolveComReference.cache

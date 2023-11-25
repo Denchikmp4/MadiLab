@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jVF0SI1Cqrcpr/I/XnL0jHlsFhXxjRzNzp0jYVV7U8SgiQJEW8N7goIwFWUpScCQeYZAbYvl458mxau9qC8pCw==",
+  "success": true,
+  "projectFilePath": "F:\\Загрузки\\Flappy Bird\\TestProject1\\TestProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denchik\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\Denchik\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\Denchik\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\Denchik\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

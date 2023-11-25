@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Загрузки\\Flappy Bird\\TestProject1\\TestProject1.csproj": {}
+  },
+  "projects": {
+    "F:\\Загрузки\\Flappy Bird\\Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj": {
+      "restore": {
+        "projectUniqueName": "F:\\Загрузки\\Flappy Bird\\Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj",
+        "projectName": "Flappy Bird Windows Form",
+        "projectPath": "F:\\Загрузки\\Flappy Bird\\Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "F:\\Загрузки\\Flappy Bird\\TestProject1\\TestProject1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Загрузки\\Flappy Bird\\TestProject1\\TestProject1.csproj",
+        "projectName": "TestProject1",
+        "projectPath": "F:\\Загрузки\\Flappy Bird\\TestProject1\\TestProject1.csproj",
+        "packagesPath": "C:\\Users\\Denchik\\.nuget\\packages\\",
+        "outputPath": "F:\\Загрузки\\Flappy Bird\\TestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\ProgramFiles\\MicrosoftVSShare\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Denchik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "F:\\Загрузки\\Flappy Bird\\Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj": {
+                "projectPath": "F:\\Загрузки\\Flappy Bird\\Flappy Bird Windows Form\\Flappy Bird Windows Form.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\TestProject1\obj\Debug\net48\TestProject1.csproj.AssemblyReference.cache
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\TestProject1\obj\Debug\net48\TestProject1.csproj.SuggestedBindingRedirects.cache
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\TestProject1\obj\Debug\net48\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\TestProject1\obj\Debug\net48\TestProject1.AssemblyInfoInputs.cache
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\TestProject1\obj\Debug\net48\TestProject1.AssemblyInfo.cs
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\TestProject1\obj\Debug\net48\TestProject1.csproj.CoreCompileInputs.cache
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\TestProject1\bin\Debug\net48\NUnit3.TestAdapter.dll
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\TestProject1\bin\Debug\net48\NUnit3.TestAdapter.pdb
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\TestProject1\bin\Debug\net48\nunit.engine.dll
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\TestProject1\bin\Debug\net48\nunit.engine.api.dll
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\TestProject1\bin\Debug\net48\TestProject1.dll
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\TestProject1\bin\Debug\net48\TestProject1.pdb
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\TestProject1\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\TestProject1\bin\Debug\net48\nunit.framework.dll
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\TestProject1\bin\Debug\net48\Flappy Bird Windows Form.exe
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\TestProject1\bin\Debug\net48\Flappy Bird Windows Form.pdb
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\TestProject1\bin\Debug\net48\Flappy Bird Windows Form.exe.config
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\TestProject1\obj\Debug\net48\TestProject1.csproj.CopyComplete
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\TestProject1\obj\Debug\net48\TestProject1.dll
+L:\VS code для дебила\FlappyBird\Flappy Bird Windows Form\TestProject1\obj\Debug\net48\TestProject1.pdb
